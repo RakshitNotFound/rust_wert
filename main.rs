@@ -22,7 +22,7 @@ fn main() {
             Err(_) => continue,
         };
 
-        println!("ou guessed: {guess}");
+        println!("You guessed: {guess}");
 
     
             }
